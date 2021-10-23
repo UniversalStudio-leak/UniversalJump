@@ -1,0 +1,21 @@
+# Plugin recompiled by NaulbiMIX | Sponsored by FlatiCommunity (https://t.me/flaticommunity)
+# Specially publication for https://teletype.in/@naulbimix/rumine
+#
+# Плагин разработан командой кодеров UniversalStudio.
+# Если Вы обнаружите какой-либо баг, незамедлительно сообщите нам.
+# Vk: vk.com/universalstudio
+# Site: u-studio.su
+
+fish:
+    enable: false # Если false, то будет включён двойной прыжок
+    slot: 7 # Слот, куда будет установлена удочка в инвентарь при заходе
+    sound: ENTITY_BLAZE_SHOOT # Звуки брать от сюда: https://hub.spigotmc.org/javadocs/spigot/org/bukkit/Sound.html
+    title: '&6Удочка &8(ПКМ)'
+    lore:
+        - ''
+        - '&fУдочка телепортатор'
+        - ' &8&lПКМ &f, чтобы откинуться'
+        - ''
+
+jump:
+    sound: ENTITY_BLAZE_SHOOT

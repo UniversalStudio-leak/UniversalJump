@@ -1,0 +1,14 @@
+# Plugin recompiled by NaulbiMIX | Sponsored by FlatiCommunity (https://t.me/flaticommunity)
+# Specially publication for https://teletype.in/@naulbimix/rumine
+#
+# Плагин разработан командой кодеров UniversalStudio.
+# Если Вы обнаружите какой-либо баг, незамедлительно сообщите нам.
+# Vk: vk.com/universalstudio
+# Site: u-studio.su
+
+name: UniversalJump
+
+version: 1.0
+author: UniversalStudio Inc
+
+main: ru.universalstudio.universaljump.UniversalJump
